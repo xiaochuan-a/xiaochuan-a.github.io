@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-05T02:03:19.763Z</updated>
+  <updated>2022-09-05T02:05:31.831Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>今天是周一</title>
-    <link href="http://example.com/posts/undefined.html"/>
-    <id>http://example.com/posts/undefined.html</id>
+    <link href="http://example.com/posts/dgdsf.html"/>
+    <id>http://example.com/posts/dgdsf.html</id>
     <published>2022-09-04T11:25:14.000Z</published>
-    <updated>2022-09-05T02:03:19.763Z</updated>
+    <updated>2022-09-05T02:05:31.831Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://s6.jpg.cm/2022/09/04/PAm6iH.jpg" alt="嗨嗨"></p>]]></content>
     
