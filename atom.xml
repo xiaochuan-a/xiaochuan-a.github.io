@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小川和琪琪</title>
+  <title>My blog</title>
   
   <subtitle>比希望更炙热，比黑暗更深邃的，是爱啊！</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>川川</name>
+    <name>chuan</name>
     
   </author>
   
