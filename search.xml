@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>测试图片</title>
-      <link href="/posts/sdasdd.html"/>
-      <url>/posts/sdasdd.html</url>
+      <title>测试图片上传问题</title>
+      <link href="/posts/undefined.html"/>
+      <url>/posts/undefined.html</url>
       
-        <content type="html"><![CDATA[<p><img src="/posts/sdasdd/4fc551ee880a11ebb6edd017c2d2eca2.jpg" alt="你想要输入的替代文字"></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       
@@ -21,7 +21,7 @@
       <link href="/posts/dgdsf.html"/>
       <url>/posts/dgdsf.html</url>
       
-        <content type="html"><![CDATA[<p><img src="https://s6.jpg.cm/2022/09/04/PAm6iH.jpg" alt="嗨嗨"></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://www.hualigs.cn/image/640b1f14b6729.jpg" alt="嗨嗨"><br><img src="https://www.hualigs.cn/image/640b1f1a12c93.jpg" alt="嗨嗨"></p>]]></content>
       
       
       
@@ -30,11 +30,11 @@
     
     
     <entry>
-      <title>测试图片上传问题</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
+      <title>测试图片</title>
+      <link href="/posts/sdasdd.html"/>
+      <url>/posts/sdasdd.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><img src="/posts/sdasdd/4fc551ee880a11ebb6edd017c2d2eca2.jpg" alt="你想要输入的替代文字"></p>]]></content>
       
       
       
