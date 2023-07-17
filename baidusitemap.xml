@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://example.com/posts/asd.html</loc>
+    <lastmod>2023-07-17</lastmod>
+  </url>
+  <url>
     <loc>http://example.com/posts/dgdsf.html</loc>
     <lastmod>2023-04-05</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/sdas2d.html</loc>
-    <lastmod>2023-01-19</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/undefined.html</loc>
-    <lastmod>2022-09-04</lastmod>
-  </url>
-  <url>
-    <loc>http://example.com/posts/sdasdd.html</loc>
-    <lastmod>2022-09-04</lastmod>
   </url>
 </urlset> 
