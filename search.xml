@@ -40,6 +40,25 @@
     </entry>
     
     
+    
+    <entry>
+      <title>这个是置顶文章</title>
+      <link href="/posts/asd.html"/>
+      <url>/posts/asd.html</url>
+      
+        <content type="html"><![CDATA[<div class="note default"><p>后续测试都会在这里面进行，一些奇怪的功能完善这个帖子就不再了呢</p></div><div class="note primary"><p>基本基本</p></div><div class="note info"><p>提示提示</p></div><div class="note success"><p>成功成功</p></div><div class="note warning"><p>警告警告</p></div><div class="note danger"><p>危险危险</p></div><div class="note danger no-icon"><p>危险危险</p></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 无 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
