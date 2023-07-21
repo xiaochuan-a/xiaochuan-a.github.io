@@ -145,7 +145,9 @@ Yume Shoka = 我带上了猫的面具 = 黑暗散尽，月华满天</title>
     
 
     <figure class="highlight java"><figcaption><span>行高亮</span><span class="exturl" data-url="aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=">参考链接 mark:1,6-7</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> java.util.Scanner;</span><br><span class="line">...</span><br><span class="line"><span class="type">Scanner</span> <span class="variable">in</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Scanner</span> (System.in);</span><br><span class="line"><span class="comment">// 输入 Scan 之后，按下键盘 Alt + “/” 键，Eclipse 下自动补全。</span></span><br><span class="line"></span><br><span class="line">System.out.println (in.nextLine ());</span><br><span class="line">System.out.println (<span class="string">&quot;Hello&quot;</span> + <span class="string">&quot;world.&quot;</span>);</span><br></pre></td></tr></table></figure>
-<p>:::info<br>简单的试一下这个代码块功能，下面代码其实很low，看个乐呵就好，不必研究╰(<em>°▽°</em>)╯ :kissing_heart:<br>:::</p>
+<div class="note info">
+<p>简单的试一下这个代码块功能，下面代码其实很 low，看个乐呵就好，不必研究╰(<em>°▽°</em>)╯</p>
+</div>
 <figure class="highlight java"><figcaption><span>解析JSON取值</span><span class="exturl" data-url="aHR0cHM6Ly9pLmxvbGkubmV0LzIwMjAvMTAvMzAvcmpkaGNTZ0VOOENPQlBBLmpwZw==">参考链接 mark:1,6-7</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> java.util.Scanner;</span><br><span class="line">...</span><br><span class="line"><span class="comment">//下面只是一个示例</span></span><br><span class="line"><span class="type">String</span> <span class="variable">a</span> <span class="operator">=</span> <span class="string">&quot;&#123;\&quot;check\&quot;:\&quot;[&#x27;1=&gt;-1&#x27;,&#x27;2=&gt;0|1|2|3|4|5&#x27;]\&quot;,\&quot;target\&quot;:\&quot;sjfl\&quot;&#125;&quot;</span>;</span><br><span class="line"><span class="type">JSONObject</span> <span class="variable">jsonObject</span> <span class="operator">=</span>JSONObject.parseObject(a);</span><br><span class="line"><span class="type">String</span> <span class="variable">target</span> <span class="operator">=</span> jsonObject.get(<span class="string">&quot;target&quot;</span>).toString();</span><br><span class="line"><span class="type">String</span> <span class="variable">target1</span> <span class="operator">=</span> jsonObject.getString(<span class="string">&quot;target&quot;</span>);</span><br><span class="line"><span class="type">String</span> <span class="variable">check</span> <span class="operator">=</span> jsonObject.get(<span class="string">&quot;check&quot;</span>).toString();</span><br><span class="line">ArrayList&lt;String&gt; arrayList = JSON.parseObject(check, <span class="keyword">new</span> <span class="title class_">TypeReference</span>&lt;ArrayList&lt;String&gt;&gt;() &#123;&#125;);</span><br><span class="line"><span class="keyword">for</span> (String s : arrayList) &#123;</span><br><span class="line">System.out.println(<span class="string">&quot;数组得值&quot;</span>+s);</span><br></pre></td></tr></table></figure>
 
       <div class="tags">
@@ -161,7 +163,7 @@ Yume Shoka = 我带上了猫的面具 = 黑暗散尽，月华满天</title>
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">Edited on</span>
-    <time title="Modified: 2023-07-21 11:17:27" itemprop="dateModified" datetime="2023-07-21T11:17:27+08:00">2023-07-21</time>
+    <time title="Modified: 2023-07-21 11:50:33" itemprop="dateModified" datetime="2023-07-21T11:50:33+08:00">2023-07-21</time>
   </span>
 </div>
 
@@ -289,7 +291,7 @@ Yume Shoka = 我带上了猫的面具 = 黑暗散尽，月华满天</title>
 <div class="breadcrumb">
 </div>
 
-    <span><a href="/posts/dgdsf.html" title="打破次元壁！就在今天！">打破次元壁！就在今天！</a></span>
+    <span><a href="/posts/asd2.html" title="代码块的使用方法">代码块的使用方法</a></span>
   </li>
 
       
@@ -316,7 +318,7 @@ Yume Shoka = 我带上了猫的面具 = 黑暗散尽，月华满天</title>
 <div class="breadcrumb">
 </div>
 
-    <span><a href="/posts/asd2.html" title="代码块的使用方法">代码块的使用方法</a></span>
+    <span><a href="/posts/dgdsf.html" title="打破次元壁！就在今天！">打破次元壁！就在今天！</a></span>
   </li>
 
       
