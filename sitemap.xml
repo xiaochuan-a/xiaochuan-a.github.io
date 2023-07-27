@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/undefined.html</loc>
-    
-    <lastmod>2023-07-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/posts/asd.html</loc>
     
     <lastmod>2023-07-19</lastmod>
@@ -49,7 +40,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-07-21</lastmod>
+    <lastmod>2023-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,14 +48,14 @@
   
   <url>
     <loc>http://example.com/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-07-21</lastmod>
+    <lastmod>2023-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E6%97%A0/</loc>
-    <lastmod>2023-07-21</lastmod>
+    <lastmod>2023-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
