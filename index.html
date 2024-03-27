@@ -66,7 +66,7 @@
         <nav id="nav">
   <div class="inner">
     <div class="toggle">
-      <div class="lines" aria-label="Toggle navigation bar">
+      <div class="lines" aria-label="切换导航栏">
         <span class="line"></span>
         <span class="line"></span>
         <span class="line"></span>
@@ -89,12 +89,12 @@
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://s2.loli.net/2023/07/19/LElFxSDsYmKqGvN.jpg"></li>
-          <li class="item" data-background-image="https://i.loli.net/2020/10/30/rjdhcSgEN8COBPA.jpg"></li>
+          <li class="item" data-background-image="https://s2.loli.net/2023/07/19/mJFHNE5YayrdnqS.jpg"></li>
+          <li class="item" data-background-image="https://s2.loli.net/2023/07/19/JTR3sdXcQF5bLjy.jpg"></li>
           <li class="item" data-background-image="https://s2.loli.net/2023/07/19/Gfy4Z52qPis1Vzr.jpg"></li>
           <li class="item" data-background-image="https://i.loli.net/2020/10/30/rjdhcSgEN8COBPA.jpg"></li>
           <li class="item" data-background-image="https://i.loli.net/2020/10/30/qAMYEFXxJcKRsiG.gif"></li>
-          <li class="item" data-background-image="https://s2.loli.net/2023/07/19/JTR3sdXcQF5bLjy.jpg"></li>
+          <li class="item" data-background-image="https://s2.loli.net/2023/07/19/LElFxSDsYmKqGvN.jpg"></li>
         </ul>
       </div>
     </header>
@@ -116,7 +116,7 @@
         <div id="main" class="pjax">
           
   <div class="index wrap">
-      <h2 class="divider">Sticky Posts</h2>
+      <h2 class="divider">置顶文章</h2>
       <div class="segments sticky">
           
 <article class="item">
@@ -126,7 +126,7 @@
   <div class="info">
     
 <div class="meta">
-  <span class="item" title="Created: 2023-08-25 17:25:14">
+  <span class="item" title="创建时间：2023-08-25 17:25:14">
     <span class="icon">
       <i class="ic i-calendar"></i>
     </span>
@@ -150,7 +150,7 @@
 </article>
 
       </div>
-    <h2 class="divider">Post List</h2>
+    <h2 class="divider">文章列表</h2>
     <div class="segments posts">
         
 <article class="item">
@@ -160,7 +160,7 @@
   <div class="info">
     
 <div class="meta">
-  <span class="item" title="Created: 2023-07-21 11:25:14">
+  <span class="item" title="创建时间：2023-07-21 11:25:14">
     <span class="icon">
       <i class="ic i-calendar"></i>
     </span>
@@ -170,9 +170,12 @@
 
     <h3><a href="/posts/asd2.html" itemprop="url" title="不要停下前进的脚步">不要停下前进的脚步</a></h3>
     <div class="excerpt">
-        stream 流的常见使用方法 (搞笑简洁), 别嘲笑我，反正我是容易忘…
+        2024/03/19 11：11
+昨天优化了一段的自己的代码，感觉涉及技术点还是挺多的，在这里记录一下
 
-stream流的常见使用方法 参考链接 mark:1,6-7123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869//将数据通过stream流转换成key value的形式，使用的场景很多，取值得话直接根据产品编码Key获取就行HashMap&amp;lt;String, String&amp;gt;...
+最近宣贯的一个需求是：如果客户提了一个订单，需要审批人进行一个审批，但是这个审批人在一天内（24 小时）没有审批，我们就需要给审批人发送短信提醒一下，这个需求改造总体涉及三个功能点：
+1：创建定时任务，每天的早上九点执行，检查审批单是否已经超过一天未处理，如果是，记录该审批人需要发送短信提醒
+2：检查当前时间是否为工作日，需要将当前审批人的信息或者单号记录下来，如果不是工作日就不提醒，直接...
     </div>
     <a href="/posts/asd2.html" itemprop="url" title="不要停下前进的脚步" class="btn">more...</a>
   </div>
@@ -186,7 +189,7 @@ stream流的常见使用方法 参考链接 mark:1,6-712345678910111213141516171
   <div class="info">
     
 <div class="meta">
-  <span class="item" title="Created: 2023-07-20 19:25:14">
+  <span class="item" title="创建时间：2023-07-20 19:25:14">
     <span class="icon">
       <i class="ic i-calendar"></i>
     </span>
@@ -231,7 +234,7 @@ emmm 所以就先不搞这个网页了，但是我不会忘记的，这是我最
   <div class="info">
     
 <div class="meta">
-  <span class="item" title="Created: 2022-09-04 19:25:14">
+  <span class="item" title="创建时间：2022-09-04 19:25:14">
     <span class="icon">
       <i class="ic i-calendar"></i>
     </span>
@@ -262,11 +265,11 @@ emmm 所以就先不搞这个网页了，但是我不会忘记的，这是我最
 
   <div class="panels">
     <div class="inner">
-      <div class="contents panel pjax" data-title="Contents">
+      <div class="contents panel pjax" data-title="文章目录">
       </div>
-      <div class="related panel pjax" data-title="Related">
+      <div class="related panel pjax" data-title="系列文章">
       </div>
-      <div class="overview panel" data-title="Overview">
+      <div class="overview panel" data-title="站点概览">
         <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
   <img class="image" itemprop="image" alt="皓曦之月"
       data-src="/images/hutao.png">
@@ -278,13 +281,13 @@ emmm 所以就先不搞这个网页了，但是我不会忘记的，这是我最
     <div class="item posts">
       <a href="/archives/">
         <span class="count">4</span>
-        <span class="name">posts</span>
+        <span class="name">文章</span>
       </a>
     </div>
     <div class="item tags">
       <a href="/tags/">
         <span class="count">3</span>
-        <span class="name">tags</span>
+        <span class="name">标签</span>
       </a>
     </div>
 </nav>
@@ -296,7 +299,7 @@ emmm 所以就先不搞这个网页了，但是我不会忘记的，这是我最
   
     
   <li class="item">
-    <a href="/" rel="section"><i class="ic i-home"></i>Home</a>
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
   </li>
 
 
@@ -326,17 +329,8 @@ emmm 所以就先不搞这个网页了，但是我不会忘记的，这是我最
         <div class="widgets">
           
 <div class="rpost pjax">
-  <h2>Random Posts</h2>
+  <h2>随机文章</h2>
   <ul>
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/posts/A1.html" title="你也长尾巴了吗">你也长尾巴了吗</a></span>
-  </li>
-
       
   <li class="item">
     
@@ -361,13 +355,22 @@ emmm 所以就先不搞这个网页了，但是我不会忘记的，这是我最
 <div class="breadcrumb">
 </div>
 
+    <span><a href="/posts/A1.html" title="你也长尾巴了吗">你也长尾巴了吗</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+</div>
+
     <span><a href="/posts/asd.html" title="这个里面是图片哦">这个里面是图片哦</a></span>
   </li>
 
   </ul>
 </div>
 <div>
-  <h2>Recent Comments</h2>
+  <h2>最新评论</h2>
   <ul class="leancloud-recent-comment"></ul>
 </div>
 
@@ -383,7 +386,7 @@ emmm 所以就先不搞这个网页了，但是我不会忘记的，这是我最
     <span class="author" itemprop="copyrightHolder">皓曦之月 @ Softcute Surname Sakura</span>
   </div>
   <div class="powered-by">
-    Powered by <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
   </div>
 </div>
 
@@ -394,16 +397,16 @@ emmm 所以就先不搞这个网页了，但是我不会忘记的，这是我最
   var LOCAL = {
     path: '',
     favicon: {
-      show: "（●´3｀●）Goooood",
-      hide: "(´Д｀)Booooom"
+      show: "（●´3｀●）やれやれだぜ",
+      hide: "(´Д｀)大変だ！"
     },
     search : {
-      placeholder: "Search for Posts",
-      empty: "We didn't find any results for the search: ${query}",
-      stats: "${hits} results found in ${time} ms"
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
     },
     valine: true,fancybox: true,
-    copyright: 'Copied to clipboard successfully! <br> All articles in this blog are licensed under <i class="ic i-creative-commons"></i>BY-NC-SA.',
+    copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
     ignores : [
       function(uri) {
         return uri.includes('#');
