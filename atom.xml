@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-10-25T08:47:27.607Z</updated>
+  <updated>2024-10-25T09:07:52.112Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/posts/photo1.html"/>
     <id>http://example.com/posts/photo1.html</id>
     <published>2024-10-25T07:25:14.000Z</published>
-    <updated>2024-10-25T08:47:27.607Z</updated>
+    <updated>2024-10-25T09:07:52.112Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534400.png" alt>{: style=”width: 30%; display: inline-block;”} <img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534892.png" alt>{: style=”width: 30%; display: inline-block;”} <img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534383.png" alt>{: style=”width: 30%; display: inline-block;”} <img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534533.png" alt>{: style=”width: 30%; display: inline-block;”} <img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251536836.jpg" alt>{: style=”width: 30%; display: inline-block;”}</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note info"><p>不定期更新动漫头像～</p></div><p><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534400.png" alt : style="width: 30%; display: inline-block;"><br><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534892.png" alt : style="width: 30%; display: inline-block;"><br><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534383.png" alt : style="width: 30%; display: inline-block;"><br><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534533.png" alt : style="width: 30%; display: inline-block;"><br><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251536836.jpg" alt : style="width: 30%; display: inline-block;"></p>]]></content>
     
     
       
