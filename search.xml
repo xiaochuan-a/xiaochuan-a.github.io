@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>动漫头像-陈老师专用</title>
+      <title>动漫头像</title>
       <link href="/posts/photo1.html"/>
       <url>/posts/photo1.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534400.png" alt><br><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534892.png" alt><br><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534383.png" alt><br><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534533.png" alt><br><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251536836.jpg" alt></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534400.png" alt>{: style=”width: 30%; display: inline-block;”} <img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534892.png" alt>{: style=”width: 30%; display: inline-block;”} <img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534383.png" alt>{: style=”width: 30%; display: inline-block;”} <img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251534533.png" alt>{: style=”width: 30%; display: inline-block;”} <img data-src="https://hexo-sakura.oss-cn-beijing.aliyuncs.com/202410251536836.jpg" alt>{: style=”width: 30%; display: inline-block;”}</p>]]></content>
       
       
       
